@@ -1,7 +1,7 @@
 export default {
     "particles": {
         "number": {
-            "value": 100
+            "value": window.innerWidth > window.innerHeight ? window.innerWidth / 30 : window.innerHeight / 30
         },
         "size": {
             "value": 3
