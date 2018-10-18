@@ -5,8 +5,10 @@
   "homepage": "https://timadevelop.github.io/react-gh-pages",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "particles.js": "https://github.com/VincentGarreau/particles.js",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
+    "react-particles-js": "^2.3.0",
     "react-scripts": "2.0.5"
   },
   "scripts": {
