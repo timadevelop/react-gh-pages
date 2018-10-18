@@ -5,6 +5,7 @@
   "homepage": "https://timadevelop.github.io/react-gh-pages",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "node-sass": "^4.9.4",
     "particles.js": "https://github.com/VincentGarreau/particles.js",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",

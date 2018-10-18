@@ -1,7 +1,7 @@
 import React, {
     Component
 } from 'react';
-import './Background.css';
+import './Background.scss';
 
 import Particles from 'react-particles-js';
 import config from './data/particles.js';
