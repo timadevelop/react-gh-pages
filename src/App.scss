@@ -9,16 +9,16 @@
     -ms-user-select: none;
     user-select: none;
     outline: 0;
-    height: 90vh;
-    * {
-        z-index: 1;
-    }
+    height: 100vh;
+    // * {
+    //     z-index: 1;
+    // }
     .App-logo {
         animation: App-logo-spin infinite 20s linear;
         // height: 20vmin;
         /* border: solid 1px white; */
     }
-    .App-header {
+    .App-content {
         background: transparent;
         height: 100%;
         display: flex;
